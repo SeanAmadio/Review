@@ -1,9 +1,41 @@
 {
+  "stickers" : [
+    {
+      "filename" : "0.5 Star.sticker"
+    },
+    {
+      "filename" : "1 Star.sticker"
+    },
+    {
+      "filename" : "1.5 Star.sticker"
+    },
+    {
+      "filename" : "2 Star.sticker"
+    },
+    {
+      "filename" : "2.5 Star.sticker"
+    },
+    {
+      "filename" : "3 Star.sticker"
+    },
+    {
+      "filename" : "3.5 Star.sticker"
+    },
+    {
+      "filename" : "4 Star.sticker"
+    },
+    {
+      "filename" : "4.5 Star.sticker"
+    },
+    {
+      "filename" : "5 Star.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "large"
   }
 }
